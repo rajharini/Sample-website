@@ -1,0 +1,88 @@
+#contact {
+  background: #fff;
+}
+
+#contact .info {
+  color: #222;
+}
+
+#contact .info i {
+  font-size: 32px;
+  color: #5da4c5;
+  float: left;
+}
+
+#contact .info p {
+  padding: 0 0 10px 50px;
+  margin-bottom: 20px;
+  line-height: 22px;
+  font-size: 14px;
+}
+
+#contact .info .email p {
+  padding-top: 5px;
+}
+
+#contact .social-links {
+  padding: 20px;
+}
+
+#contact .social-links a {
+  font-size: 18px;
+  display: inline-block;
+  background: #26b0da;
+  color: #fff;
+  line-height: 1;
+  padding: 6px 8px;
+  border-radius: 50%;
+  text-align: center;
+  width: 36px;
+  height: 36px;
+}
+
+#contact .social-links a:hover {
+  background: #5ddaf0;
+  color: #fff;
+}
+#contact .btn {
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 28px;
+  border-radius: 50px;
+  transition: 0.5s;
+  margin: 10px;
+  border: 2px solid rgb(138, 158, 245);
+  color: rgb(0, 5, 12);
+}
+.footer {
+    background:  #96d7eb;
+    padding-top: 50px;
+  }
+  
+  .footer .footer-logo .navbar-brand {
+    color: black;
+    display: inline-block;
+    float: none;
+    font-family: "Philosopher", sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    height: 100%;
+    letter-spacing: 0.2em;
+    padding-left: 0;
+    padding-top: 0;
+  }
+  
+  .footer .footer-logo p {
+    color: black;
+    font-size: 12px;
+    letter-spacing: 1px;
+  }
+  
+  .footer .copyrights {
+    background: black;
+    margin-top: 50px;
+    text-align: center;
+    padding: 25px;
+  }
